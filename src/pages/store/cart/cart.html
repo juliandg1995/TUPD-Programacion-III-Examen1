@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Store - Carrito</title>
+    <link rel="stylesheet" href="../../../style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Food Store</h1>
+        <nav>
+            <ul>
+                <li><a href="../home/home.html">Volver a la Tienda</a></li>
+                <li><a href="#" id="btn-logout">Cerrar Sesion</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="carrito-container">
+        <h2>Mi Carrito</h2>
+
+        <div id="contenido-carrito"></div>
+
+        <div class="total-section" id="seccion-total">
+            <p>Total: <strong id="total-carrito">$0</strong></p>
+        </div>
+
+        <div class="carrito-acciones">
+            <button type="button" id="btn-vaciar">Vaciar Carrito</button>
+            <a href="../home/home.html" class="btn-seguir">Seguir Comprando</a>
+        </div>
+
+        <div class="finalizar-compra">
+            <button type="button" class="btn-finalizar" disabled title="Funcion no disponible. Se habilitara en futuras versiones.">Finalizar Compra</button>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Food Store. Todos los derechos reservados.</p>
+        <p>Contacto: <a href="mailto:info@foodstore.com">info@foodstore.com</a></p>
+    </footer>
+
+    <script type="module" src="./cart.ts"></script>
+</body>
+
+</html>
