@@ -16,7 +16,7 @@ El proyecto parte de una base con el sistema de autenticación ya implementado (
 
 ## Video explicativo
 
-> [Ver video en YouTube](https://www.youtube.com/watch?v=PENDIENTE)
+> [Ver video en YouTube](https://youtu.be/Yc9GWQKn9EY)
 
 ---
 
