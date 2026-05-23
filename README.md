@@ -20,6 +20,12 @@ El proyecto parte de una base con el sistema de autenticación ya implementado (
 
 ---
 
+## Repositorio Github
+
+> [Repositorio Examen 1](https://github.com/juliandg1995/TUPD-Programacion-III-Examen1/tree/main)
+
+---
+
 ## Funcionalidades implementadas
 
 | Historia de usuario | Descripción |
